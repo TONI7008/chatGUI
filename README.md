@@ -29,8 +29,7 @@ A modern C++ chat application with graphical user interface.
 ```
 
 ## Preview
-
-![Chat GUI Preview](./preview.png)
+![Chat GUI Preview](https://github.com/TONI7008/chatGUI/blob/main/Images/preview.png)
 
 ## Requirements
 
