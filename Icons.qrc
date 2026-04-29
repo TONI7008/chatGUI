@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/arrow-down.svg</file>
+        <file>Icons/edit.svg</file>
+        <file>Icons/editw.svg</file>
+        <file>Icons/settingsw.svg</file>
+        <file>Icons/collapserw.svg</file>
+        <file>Icons/collapselw.svg</file>
+        <file>Icons/sys_prompt.txt</file>
+        <file>Icons/searchw.svg</file>
+    </qresource>
+</RCC>
